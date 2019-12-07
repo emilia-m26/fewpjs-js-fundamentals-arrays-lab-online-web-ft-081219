@@ -1,5 +1,5 @@
 // Write your solution here!
-const append = ["Milo", "Otis", "Garfield"]; //assigns infor to variable
+const append = ["Milo", "Otis", "Garfield"]; //assigns info to variable
 const prepend = ["Milo", "Otis", "Garfield"];
 const removeLast = ["Milo", "Otis", "Garfield"];
 const removeFirst = ["Milo", "Otis", "Garfield"];
